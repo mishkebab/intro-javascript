@@ -49,9 +49,9 @@ Array.prototype.myReduce = function(callback, initialValue) {
     return acc;
 }
 
-arr = [1, 2, 3];
-reduced = arr.myReduce(function(acc, el) {
-    return acc + el;
-}, 25);
+// arr = [1, 2, 3];
+// reduced = arr.myReduce(function(acc, el) {
+//     return acc + el;
+// }, 25);
 
-console.log(reduced);
+// console.log(reduced);
