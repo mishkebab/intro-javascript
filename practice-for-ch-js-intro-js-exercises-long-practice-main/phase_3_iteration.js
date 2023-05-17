@@ -33,8 +33,8 @@ String.prototype.substrings = function() {
     return result;
 }
 
-test_string = "string";
-console.log(test_string.substrings());
+// test_string = "string";
+// console.log(test_string.substrings());
 
 
 
